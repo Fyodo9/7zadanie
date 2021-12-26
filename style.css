@@ -1,0 +1,24 @@
+#background {
+    background-color: #99FFCC;
+}
+#gallery {
+    background-color: #99FFCC;
+}
+.image {
+    display: inline-block;
+}
+.slick-arrow {
+    background-color: #fbc3f1;
+    width: 50px !important;
+    height: 50px !important;
+    border: 5px #fbc3f1 solid;
+    border-radius: 25px;
+    margin-left: 0px;
+    margin-right: 0px;
+    z-index: 2000;
+}
+.slider {
+    margin: 2% auto;
+    width: 80%;
+}
+
